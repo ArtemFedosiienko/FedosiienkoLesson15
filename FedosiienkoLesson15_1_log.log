@@ -1,0 +1,5 @@
+
+server 2023-01-23 21:10:26,174 - ERROR - No response in Server database
+server 2023-01-23 21:11:54,543 - WARNING - The question from the Client is not substance
+server 2023-01-23 21:13:12,438 - INFO - Greeting from the Server
+
